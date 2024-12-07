@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "507325495b733cc7a89f30366c87ad03"
+	name: "D4nt3Zzz#50732549"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1733614350275L
+		0000000000000001: 1733614350275L
+		7B701D980200A661: 1733614350275L
+		1DD302BB650057E3: 1733614350275L
+	}
+	completed: {
+		7B701D980200A661: 1733614350281L
+		1DD302BB650057E3: 1733614350281L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "50732549-5b73-3cc7-a89f-30366c87ad03"
+	type: "player"
+	player_name: "D4nt3Zzz"
+	ranks: {
+		50732549-5b73-3cc7-a89f-30366c87ad03: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "D4nt3Zzz"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F6"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
