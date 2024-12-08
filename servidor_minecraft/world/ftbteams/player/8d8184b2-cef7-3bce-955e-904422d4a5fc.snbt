@@ -1,0 +1,17 @@
+{
+	id: "8d8184b2-cef7-3bce-955e-904422d4a5fc"
+	type: "player"
+	player_name: "Negan147"
+	ranks: {
+		8d8184b2-cef7-3bce-955e-904422d4a5fc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Negan147"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD2"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
